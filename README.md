@@ -27,17 +27,19 @@ Watch the live demo:
 ## 📌 **API Endpoints**
 | HTTP Method | Endpoint | Description |
 |------------|----------|-------------|
-| **POST** | `/auth/register/` | Register a new user |
-| **POST** | `/auth/login/` | User login (returns JWT token) |
-| **POST** | `/auth/logout/` | User logout |
-| **POST** | `/auth/token/` | Obtain access & refresh token |
-| **POST** | `/auth/token/refresh/` | Get a new access token |
-| **POST** | `/auth/token/verify/` | Verify access token |
-| **PATCH** | `/auth/user/update/` | Update user profile |
-| **POST** | `/documents/` | Upload a document |
-| **GET** | `/documents/list/` | List all uploaded documents |
-| **POST** | `/addresses/` | Add a new address |
-| **PATCH** | `/addresses/<id>/` | Update an address |
+| **POST** | `api/v1/auth/register/` | Register a new user |
+| **POST** | `api/v1/auth/login/` | User login (returns JWT token) |
+| **POST** | `api/v1/auth/logout/` | User logout |
+| **POST** | `api/v1/auth/token/` | Obtain access & refresh token |
+| **POST** | `api/v1/auth/token/refresh/` | Get a new access token |
+| **POST** | `api/v1/auth/token/verify/` | Verify access token |
+| **PATCH** | `api/v1/auth/user/update/` | Update user profile |
+| **POST** | `api/v1/documents/` | Upload a document |
+| **GET** | `api/v1/documents/list/` | List all uploaded documents |
+| **POST** | `api/v1/addresses/` | Add a new address |
+| **PATCH** | `api/v1/addresses/<id>/` | Update an address |
+
+Frontend url React : http://localhost:3000 
 
 ---
 
