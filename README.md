@@ -110,5 +110,5 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ---
 
 ## 📞 **Contact**
-For any queries, reach out at: **your.email@example.com**
+For any queries, reach out at: **amanraj241800@gmail.com**
 
