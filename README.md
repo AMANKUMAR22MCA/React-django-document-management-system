@@ -13,7 +13,7 @@ Watch the live demo:
 - **Django Rest Framework (DRF)** - API development
 - **dj-rest-auth** - Authentication (JWT, login, registration, token refresh)
 - **Simple JWT** - Token-based authentication
-- **PostgreSQL** - Database
+- **MYSQL** - Database
 - **Django Class-Based Views** - For clean API architecture
 
 ### **Frontend** (React)
