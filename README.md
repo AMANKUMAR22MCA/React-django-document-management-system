@@ -39,7 +39,7 @@ Watch the live demo:
 | **POST** | `api/v1/addresses/` | Add a new address |
 | **PATCH** | `api/v1/addresses/<id>/` | Update an address |
 
-Frontend url React : http://localhost:3000 
+Frontend url React : http://localhost:3000  (in local after npm start )
 
 ---
 
