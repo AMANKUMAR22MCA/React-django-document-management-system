@@ -1,7 +1,10 @@
 # 🚀 Django & React Authentication and Document Management System
 
 This project is a **Django REST API** with a **React frontend** for user authentication and document management. It provides **JWT-based authentication** using `dj-rest-auth`, and allows users to register, manage addresses, upload documents, and update their profiles.
+<br>
+## 🎥 Demo Video  
 
+Watch the live demo: 
 [Demo Video](https://youtu.be/rxtDG80u8Nw)
 
 ## 🛠️ Technologies Used
