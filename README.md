@@ -89,9 +89,9 @@ $ npm start
 This project uses **dj-rest-auth** for authentication, providing features like:
 - **User Registration & Login**
 - **JWT-based authentication**
-- **Password Reset & Change**
+- **Profie reset  & Add multiple address and Change**
 - **User Profile Management**
-
+- **Upload document and download and view all the documents uploaded**
 ---
 
 ## 🎯 **Features**
