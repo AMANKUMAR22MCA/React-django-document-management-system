@@ -66,7 +66,9 @@ $ python manage.py migrate
 
 # Start the server
 $ python manage.py makemigrations api
+$ cd backend
 $ python manage.py runserver
+
 ```
 
 ### **Frontend Setup** (React)
